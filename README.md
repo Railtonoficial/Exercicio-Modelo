@@ -8,7 +8,7 @@ O projeto utiliza HTML, CSS e JavaScript para criar uma página dinâmica que ex
 
 ## 🌐 Acesse o Projeto
 
-Você pode visualizar o projeto clicando [aqui]([https://seu-usuario.github.io/hora-do-dia](https://railtonoficial.github.io/Exercicio-Modelo/Exercicio-Modelo/modelo.html)).
+Você pode visualizar o projeto clicando [aqui](https://railtonoficial.github.io/Exercicio-Modelo/Exercicio-Modelo/modelo.html).
 
 ## 🛠️ Tecnologias Utilizadas
 
